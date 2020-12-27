@@ -11,7 +11,7 @@
   <a href="https://imcsk.com"><img src="https://img.shields.io/badge/language-markdown-Red.svg" ></a>
 </p>
 
-![avatar](shardoc.jpg)
+![avatar](./shardoc.jpg)
 
 # 此项目是专门用来做项目文档知识管理
 
@@ -38,3 +38,7 @@ npm install
 ## 启动预览服务
 启动成功后会提示“VuePress dev server listening at http://xxx”，在浏览器中打开提示的地址即可   
 npm start
+
+- [Blog@陈言懒调](http://www.imcsk.com)
+- [ZhiHu@迟恩](https://www.zhihu.com/people/chenshuaikang)
+- [GitHub@chenshuaikang](https://github.com/chenshuaikang)
